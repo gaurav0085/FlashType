@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gaurav0085/FlashType/static/css/main.62ea54f3.chunk.css",
+    "main.js": "/gaurav0085/FlashType/static/js/main.a1e55f2b.chunk.js",
+    "main.js.map": "/gaurav0085/FlashType/static/js/main.a1e55f2b.chunk.js.map",
+    "runtime-main.js": "/gaurav0085/FlashType/static/js/runtime-main.e81738b0.js",
+    "runtime-main.js.map": "/gaurav0085/FlashType/static/js/runtime-main.e81738b0.js.map",
+    "static/js/2.b53c8200.chunk.js": "/gaurav0085/FlashType/static/js/2.b53c8200.chunk.js",
+    "static/js/2.b53c8200.chunk.js.map": "/gaurav0085/FlashType/static/js/2.b53c8200.chunk.js.map",
+    "index.html": "/gaurav0085/FlashType/index.html",
+    "static/css/main.62ea54f3.chunk.css.map": "/gaurav0085/FlashType/static/css/main.62ea54f3.chunk.css.map",
+    "static/js/2.b53c8200.chunk.js.LICENSE.txt": "/gaurav0085/FlashType/static/js/2.b53c8200.chunk.js.LICENSE.txt",
+    "static/media/flash.48e731f5.png": "/gaurav0085/FlashType/static/media/flash.48e731f5.png",
+    "static/media/logo.904ac8fd.png": "/gaurav0085/FlashType/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81738b0.js",
+    "static/js/2.b53c8200.chunk.js",
+    "static/css/main.62ea54f3.chunk.css",
+    "static/js/main.a1e55f2b.chunk.js"
+  ]
+}
